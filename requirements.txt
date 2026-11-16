@@ -1,0 +1,16 @@
+requests
+numpy
+tiktoken
+transformers
+torch
+peft
+accelerate
+pillow
+pytesseract
+presidio-analyzer
+presidio-anonymizer
+detect-secrets
+fastapi
+uvicorn
+pytest
+pandas

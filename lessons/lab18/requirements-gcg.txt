@@ -1,0 +1,4 @@
+nanogcg
+torch
+transformers
+requests

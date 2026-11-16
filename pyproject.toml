@@ -1,0 +1,12 @@
+[project]
+name = "sl"
+version = "0.1.0"
+description = "Hands-on labs for the 'AI Security and the Vulnerability Landscape' learning guide"
+requires-python = ">=3.10"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["common"]
